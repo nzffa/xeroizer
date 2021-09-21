@@ -3,7 +3,7 @@ require 'date'
 require 'forwardable'
 require 'active_support/inflector'
 require "active_support/core_ext/array"
-require "active_support/core_ext/big_decimal/conversions"
+require "active_support/core_ext/bigdecimal/conversions"
 require 'oauth'
 require 'oauth2'
 require 'oauth/signature/rsa/sha1'
